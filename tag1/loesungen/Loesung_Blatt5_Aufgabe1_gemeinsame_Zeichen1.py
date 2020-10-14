@@ -1,5 +1,5 @@
-#word1 = input("Please enter word 1: ")
-#word2 = input("Please enter word 2: ")
+# word1 = input("Please enter word 1: ")
+# word2 = input("Please enter word 2: ")
 word1 = 'tester'
 word2 = 'Hello World'
 common = ""

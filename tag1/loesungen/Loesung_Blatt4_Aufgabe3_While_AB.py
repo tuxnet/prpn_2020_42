@@ -6,4 +6,4 @@ while start < end:
     total += new
     start += 1
 print ("Die Summe ist", total)
-print ("Der Durchschnitt ist", total / start)
+print ("Der Durchschnitt ist", total / end)
