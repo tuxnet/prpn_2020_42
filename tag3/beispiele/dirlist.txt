@@ -1,0 +1,7 @@
+Car.class
+Car.java
+dirlist.java
+Pickup.class
+Pickup.java
+TestKlasse.class
+TestKlasse.java
