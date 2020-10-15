@@ -11,7 +11,7 @@
 # print(myfile.readline())
 # myfile.close()
 # myfile = open('dirlist.txt')
-# outfile = open('newdirlist.txt', 'w') # ('r','w','a', 'x')
+# outfile = open('newdirlist.txt', 'x') # ('r','w','a', 'x')
 # for line in myfile:
 #     print(line)
 #     outfile.write(line.upper())
