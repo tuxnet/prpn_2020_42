@@ -69,7 +69,7 @@ Die folgenden ONOS-Applikationen sollten aktiviert sein/werden:
 Starten Sie, bei laufendem Controller, mit Mininet die Testtopologie `mytop.py` und stellen Sie sicher, dass diese im ONOS-Dashboard sichtbar ist. Der Befehl dazu findet sich in `mn_example.txt`.
 
 ## Teil 1:
-Erweitern Sie die Mininet-Topologie auf mindestens sechs Hosts und drei Switches (Ein Mininet Neustart mit neuer Topologie ist danach erforderlich). Entwickeln Sie dann eine Applikation (z.B.) in Python, die die ONOS-API nutzt um alle bekannten Hosts zu ermitteln. Mininet lässt sich beeanden im dortigen Prompt mit `exit`.
+Erweitern Sie die Mininet-Topologie auf mindestens sechs Hosts und drei Switches (Ein Mininet Neustart mit neuer Topologie ist danach erforderlich). Entwickeln Sie dann eine Applikation (z.B.) in Python, die die ONOS-API nutzt um alle bekannten Hosts zu ermitteln. Mininet lässt sich beenden im dortigen Prompt mit `exit`.
 
 ## Teil 2:
 Deaktivieren sie auf ONOS die Funktion "reactive forwarding"
