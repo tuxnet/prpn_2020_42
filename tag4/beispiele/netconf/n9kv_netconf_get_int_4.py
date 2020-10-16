@@ -18,6 +18,8 @@ def main():
         oc_int = '''
         <interfaces xmlns="http://openconfig.net/yang/interfaces">
             <interface>
+                <name>eth1/33</name>
+                <config/>
             </interface>
         </interfaces>
         '''
